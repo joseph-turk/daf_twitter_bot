@@ -1,6 +1,6 @@
 settings = {
-    'consumer_key': 'MfkERfdX3nRntyy4zlP4aEQmh',
-    'consumer_secret': '8ugD9pyKf8lvtfcHmNMVHaqXfTtkDFtCY7Ya0vIEhoYdw3K06l',
-    'access_token_key': '2715891913-QFz5GJ0OEYhbObyTucVhIKlQXeZH3RgIU18dSE0',
-    'access_token_secret': 'DD1BmGXEZAGzak5utVQffhPgBNyVXzIMBlmwCJuPHnv3P'
+    'consumer_key': '6RHrOwmRVSVMa4dSj08LSGA41',
+    'consumer_secret': 'T1JZHKFuBnEWGVNXZSHizFM29FdH02UMldKwhWEbW3wytn8wlJ',
+    'access_token_key': '2715891913-PvNWKoTwkaPPitsYUvRNxjbdjhG1g0OCFMIDFEp',
+    'access_token_secret': 'Zmvzp33KUHoLCSsqqAeHMigd46lS5qMXt2eA8d33ghant'
 }
